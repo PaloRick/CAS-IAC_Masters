@@ -31,4 +31,5 @@ EOF
     }, {
     yor_name = "web_host"
   })
+  ebs_optimized = true
 }
